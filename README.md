@@ -1,6 +1,7 @@
 
 # Hi there, I'm Hunc 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunctasci&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunctasci&layout=compact)
 
 I'm a front-end developer with a background in media and marketing. I graduated from Istanbul University and I'm an alumni of Re:Coded's front-end web development bootcamp. I love learning new tools and frameworks. I am trying to keep myself up to date by the industry standarts.
 
